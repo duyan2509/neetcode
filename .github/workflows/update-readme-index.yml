@@ -1,0 +1,45 @@
+name: Update README Problem Index
+
+on:
+  push:
+    branches: [ "main" ]
+    paths-ignore:
+      - "README.md"
+  workflow_dispatch:
+
+concurrency:
+  group: readme-index-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate problem index table
+        run: python scripts/update_readme_index.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "duyan2509"
+          git config user.email "22520020@gm.uit.edu.vn"
+
+          if git diff --quiet -- README.md; then
+            echo "No changes to README.md"
+            exit 0
+          fi
+
+          git add README.md
+          git commit -m "chore: update problem index table [skip ci]"
+          git push
