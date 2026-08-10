@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 67 problems across 1 topic(s)._
+_Total: 68 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (67)
+### Data Structures & Algorithms (68)
 
 | # | Problem |
 |---|---|
@@ -127,24 +127,25 @@ _Total: 67 problems across 1 topic(s)._
 | 47 | [reverse-linked-list-ii](Data%20Structures%20%26%20Algorithms/reverse-linked-list-ii/) |
 | 48 | [reverse-string](Data%20Structures%20%26%20Algorithms/reverse-string/) |
 | 49 | [rotate-array](Data%20Structures%20%26%20Algorithms/rotate-array/) |
-| 50 | [rotate-matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix/) |
-| 51 | [same-binary-tree](Data%20Structures%20%26%20Algorithms/same-binary-tree/) |
-| 52 | [search-2d-matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
-| 53 | [search-in-rotated-sorted-array-ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii/) |
-| 54 | [search-insert-position](Data%20Structures%20%26%20Algorithms/search-insert-position/) |
-| 55 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
-| 56 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
-| 57 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
-| 58 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 59 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
-| 60 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 61 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
-| 62 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
-| 63 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 64 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 65 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 66 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 67 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 50 | [rotate-list](Data%20Structures%20%26%20Algorithms/rotate-list/) |
+| 51 | [rotate-matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix/) |
+| 52 | [same-binary-tree](Data%20Structures%20%26%20Algorithms/same-binary-tree/) |
+| 53 | [search-2d-matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
+| 54 | [search-in-rotated-sorted-array-ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii/) |
+| 55 | [search-insert-position](Data%20Structures%20%26%20Algorithms/search-insert-position/) |
+| 56 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
+| 57 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
+| 58 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
+| 59 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 60 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
+| 61 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 62 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
+| 63 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
+| 64 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 65 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 66 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 67 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 68 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
