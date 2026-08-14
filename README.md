@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 71 problems across 1 topic(s)._
+_Total: 72 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (71)
+### Data Structures & Algorithms (72)
 
 | # | Problem |
 |---|---|
@@ -135,20 +135,21 @@ _Total: 71 problems across 1 topic(s)._
 | 55 | [search-2d-matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
 | 56 | [search-in-rotated-sorted-array-ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii/) |
 | 57 | [search-insert-position](Data%20Structures%20%26%20Algorithms/search-insert-position/) |
-| 58 | [single-element-in-a-sorted-array](Data%20Structures%20%26%20Algorithms/single-element-in-a-sorted-array/) |
-| 59 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
-| 60 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
-| 61 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
-| 62 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 63 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
-| 64 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 65 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
-| 66 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
-| 67 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 68 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 69 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 70 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 71 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 58 | [simplify-path](Data%20Structures%20%26%20Algorithms/simplify-path/) |
+| 59 | [single-element-in-a-sorted-array](Data%20Structures%20%26%20Algorithms/single-element-in-a-sorted-array/) |
+| 60 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
+| 61 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
+| 62 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
+| 63 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 64 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
+| 65 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 66 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
+| 67 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
+| 68 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 69 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 70 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 71 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 72 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
