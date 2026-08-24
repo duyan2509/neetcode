@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 81 problems across 1 topic(s)._
+_Total: 82 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (81)
+### Data Structures & Algorithms (82)
 
 | # | Problem |
 |---|---|
@@ -149,16 +149,17 @@ _Total: 81 problems across 1 topic(s)._
 | 69 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
 | 70 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
 | 71 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
-| 72 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 73 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
-| 74 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 75 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
-| 76 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
-| 77 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 78 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 79 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 80 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 81 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 72 | [string-compression](Data%20Structures%20%26%20Algorithms/string-compression/) |
+| 73 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 74 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
+| 75 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 76 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
+| 77 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
+| 78 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 79 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 80 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 81 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 82 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
