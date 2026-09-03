@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 90 problems across 1 topic(s)._
+_Total: 91 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (90)
+### Data Structures & Algorithms (91)
 
 | # | Problem |
 |---|---|
@@ -107,67 +107,68 @@ _Total: 90 problems across 1 topic(s)._
 | 27 | [find-minimum-in-rotated-sorted-array](Data%20Structures%20%26%20Algorithms/find-minimum-in-rotated-sorted-array/) |
 | 28 | [find-peak-element](Data%20Structures%20%26%20Algorithms/find-peak-element/) |
 | 29 | [find-target-in-rotated-sorted-array](Data%20Structures%20%26%20Algorithms/find-target-in-rotated-sorted-array/) |
-| 30 | [guess-number-higher-or-lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower/) |
-| 31 | [implement-stack-using-queues](Data%20Structures%20%26%20Algorithms/implement-stack-using-queues/) |
-| 32 | [insert-delete-getrandom-o1](Data%20Structures%20%26%20Algorithms/insert-delete-getrandom-o1/) |
-| 33 | [insertion-sort-list](Data%20Structures%20%26%20Algorithms/insertion-sort-list/) |
-| 34 | [invert-a-binary-tree](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/) |
-| 35 | [is-anagram](Data%20Structures%20%26%20Algorithms/is-anagram/) |
-| 36 | [is-palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome/) |
-| 37 | [linked-list-cycle-detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/) |
-| 38 | [longest-common-prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix/) |
-| 39 | [longest-consecutive-sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence/) |
-| 40 | [longest-repeating-substring-with-replacement](Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement/) |
-| 41 | [longest-substring-without-duplicates](Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates/) |
-| 42 | [lru-cache](Data%20Structures%20%26%20Algorithms/lru-cache/) |
-| 43 | [majority-element](Data%20Structures%20%26%20Algorithms/majority-element/) |
-| 44 | [majority-element-ii](Data%20Structures%20%26%20Algorithms/majority-element-ii/) |
-| 45 | [make-sum-divisible-by-p](Data%20Structures%20%26%20Algorithms/make-sum-divisible-by-p/) |
-| 46 | [max-consecutive-ones-iii](Data%20Structures%20%26%20Algorithms/max-consecutive-ones-iii/) |
-| 47 | [max-water-container](Data%20Structures%20%26%20Algorithms/max-water-container/) |
-| 48 | [maximum-twin-sum-of-a-linked-list](Data%20Structures%20%26%20Algorithms/maximum-twin-sum-of-a-linked-list/) |
-| 49 | [merge-sorted-array](Data%20Structures%20%26%20Algorithms/merge-sorted-array/) |
-| 50 | [merge-two-sorted-linked-lists](Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists/) |
-| 51 | [minimum-size-subarray-sum](Data%20Structures%20%26%20Algorithms/minimum-size-subarray-sum/) |
-| 52 | [minimum-stack](Data%20Structures%20%26%20Algorithms/minimum-stack/) |
-| 53 | [number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
-| 54 | [number-of-sub-arrays-with-odd-sum](Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-with-odd-sum/) |
-| 55 | [online-stock-span](Data%20Structures%20%26%20Algorithms/online-stock-span/) |
-| 56 | [permutation-string](Data%20Structures%20%26%20Algorithms/permutation-string/) |
-| 57 | [products-of-array-discluding-self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/) |
-| 58 | [rearrange-array-elements-by-sign](Data%20Structures%20%26%20Algorithms/rearrange-array-elements-by-sign/) |
-| 59 | [remove-element](Data%20Structures%20%26%20Algorithms/remove-element/) |
-| 60 | [remove-node-from-end-of-linked-list](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/) |
-| 61 | [reorder-linked-list](Data%20Structures%20%26%20Algorithms/reorder-linked-list/) |
-| 62 | [reverse-a-linked-list](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/) |
-| 63 | [reverse-integer](Data%20Structures%20%26%20Algorithms/reverse-integer/) |
-| 64 | [reverse-linked-list-ii](Data%20Structures%20%26%20Algorithms/reverse-linked-list-ii/) |
-| 65 | [reverse-string](Data%20Structures%20%26%20Algorithms/reverse-string/) |
-| 66 | [rotate-array](Data%20Structures%20%26%20Algorithms/rotate-array/) |
-| 67 | [rotate-list](Data%20Structures%20%26%20Algorithms/rotate-list/) |
-| 68 | [rotate-matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix/) |
-| 69 | [same-binary-tree](Data%20Structures%20%26%20Algorithms/same-binary-tree/) |
-| 70 | [search-2d-matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
-| 71 | [search-in-rotated-sorted-array-ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii/) |
-| 72 | [search-insert-position](Data%20Structures%20%26%20Algorithms/search-insert-position/) |
-| 73 | [simplify-path](Data%20Structures%20%26%20Algorithms/simplify-path/) |
-| 74 | [single-element-in-a-sorted-array](Data%20Structures%20%26%20Algorithms/single-element-in-a-sorted-array/) |
-| 75 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
-| 76 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
-| 77 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
-| 78 | [string-compression](Data%20Structures%20%26%20Algorithms/string-compression/) |
-| 79 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
-| 80 | [subarray-product-less-than-k](Data%20Structures%20%26%20Algorithms/subarray-product-less-than-k/) |
-| 81 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
-| 82 | [subarray-sums-divisible-by-k](Data%20Structures%20%26%20Algorithms/subarray-sums-divisible-by-k/) |
-| 83 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 84 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
-| 85 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
-| 86 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 87 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 88 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 89 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 90 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 30 | [fruit-into-baskets](Data%20Structures%20%26%20Algorithms/fruit-into-baskets/) |
+| 31 | [guess-number-higher-or-lower](Data%20Structures%20%26%20Algorithms/guess-number-higher-or-lower/) |
+| 32 | [implement-stack-using-queues](Data%20Structures%20%26%20Algorithms/implement-stack-using-queues/) |
+| 33 | [insert-delete-getrandom-o1](Data%20Structures%20%26%20Algorithms/insert-delete-getrandom-o1/) |
+| 34 | [insertion-sort-list](Data%20Structures%20%26%20Algorithms/insertion-sort-list/) |
+| 35 | [invert-a-binary-tree](Data%20Structures%20%26%20Algorithms/invert-a-binary-tree/) |
+| 36 | [is-anagram](Data%20Structures%20%26%20Algorithms/is-anagram/) |
+| 37 | [is-palindrome](Data%20Structures%20%26%20Algorithms/is-palindrome/) |
+| 38 | [linked-list-cycle-detection](Data%20Structures%20%26%20Algorithms/linked-list-cycle-detection/) |
+| 39 | [longest-common-prefix](Data%20Structures%20%26%20Algorithms/longest-common-prefix/) |
+| 40 | [longest-consecutive-sequence](Data%20Structures%20%26%20Algorithms/longest-consecutive-sequence/) |
+| 41 | [longest-repeating-substring-with-replacement](Data%20Structures%20%26%20Algorithms/longest-repeating-substring-with-replacement/) |
+| 42 | [longest-substring-without-duplicates](Data%20Structures%20%26%20Algorithms/longest-substring-without-duplicates/) |
+| 43 | [lru-cache](Data%20Structures%20%26%20Algorithms/lru-cache/) |
+| 44 | [majority-element](Data%20Structures%20%26%20Algorithms/majority-element/) |
+| 45 | [majority-element-ii](Data%20Structures%20%26%20Algorithms/majority-element-ii/) |
+| 46 | [make-sum-divisible-by-p](Data%20Structures%20%26%20Algorithms/make-sum-divisible-by-p/) |
+| 47 | [max-consecutive-ones-iii](Data%20Structures%20%26%20Algorithms/max-consecutive-ones-iii/) |
+| 48 | [max-water-container](Data%20Structures%20%26%20Algorithms/max-water-container/) |
+| 49 | [maximum-twin-sum-of-a-linked-list](Data%20Structures%20%26%20Algorithms/maximum-twin-sum-of-a-linked-list/) |
+| 50 | [merge-sorted-array](Data%20Structures%20%26%20Algorithms/merge-sorted-array/) |
+| 51 | [merge-two-sorted-linked-lists](Data%20Structures%20%26%20Algorithms/merge-two-sorted-linked-lists/) |
+| 52 | [minimum-size-subarray-sum](Data%20Structures%20%26%20Algorithms/minimum-size-subarray-sum/) |
+| 53 | [minimum-stack](Data%20Structures%20%26%20Algorithms/minimum-stack/) |
+| 54 | [number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
+| 55 | [number-of-sub-arrays-with-odd-sum](Data%20Structures%20%26%20Algorithms/number-of-sub-arrays-with-odd-sum/) |
+| 56 | [online-stock-span](Data%20Structures%20%26%20Algorithms/online-stock-span/) |
+| 57 | [permutation-string](Data%20Structures%20%26%20Algorithms/permutation-string/) |
+| 58 | [products-of-array-discluding-self](Data%20Structures%20%26%20Algorithms/products-of-array-discluding-self/) |
+| 59 | [rearrange-array-elements-by-sign](Data%20Structures%20%26%20Algorithms/rearrange-array-elements-by-sign/) |
+| 60 | [remove-element](Data%20Structures%20%26%20Algorithms/remove-element/) |
+| 61 | [remove-node-from-end-of-linked-list](Data%20Structures%20%26%20Algorithms/remove-node-from-end-of-linked-list/) |
+| 62 | [reorder-linked-list](Data%20Structures%20%26%20Algorithms/reorder-linked-list/) |
+| 63 | [reverse-a-linked-list](Data%20Structures%20%26%20Algorithms/reverse-a-linked-list/) |
+| 64 | [reverse-integer](Data%20Structures%20%26%20Algorithms/reverse-integer/) |
+| 65 | [reverse-linked-list-ii](Data%20Structures%20%26%20Algorithms/reverse-linked-list-ii/) |
+| 66 | [reverse-string](Data%20Structures%20%26%20Algorithms/reverse-string/) |
+| 67 | [rotate-array](Data%20Structures%20%26%20Algorithms/rotate-array/) |
+| 68 | [rotate-list](Data%20Structures%20%26%20Algorithms/rotate-list/) |
+| 69 | [rotate-matrix](Data%20Structures%20%26%20Algorithms/rotate-matrix/) |
+| 70 | [same-binary-tree](Data%20Structures%20%26%20Algorithms/same-binary-tree/) |
+| 71 | [search-2d-matrix](Data%20Structures%20%26%20Algorithms/search-2d-matrix/) |
+| 72 | [search-in-rotated-sorted-array-ii](Data%20Structures%20%26%20Algorithms/search-in-rotated-sorted-array-ii/) |
+| 73 | [search-insert-position](Data%20Structures%20%26%20Algorithms/search-insert-position/) |
+| 74 | [simplify-path](Data%20Structures%20%26%20Algorithms/simplify-path/) |
+| 75 | [single-element-in-a-sorted-array](Data%20Structures%20%26%20Algorithms/single-element-in-a-sorted-array/) |
+| 76 | [sort-an-array](Data%20Structures%20%26%20Algorithms/sort-an-array/) |
+| 77 | [sort-colors](Data%20Structures%20%26%20Algorithms/sort-colors/) |
+| 78 | [sqrtx](Data%20Structures%20%26%20Algorithms/sqrtx/) |
+| 79 | [string-compression](Data%20Structures%20%26%20Algorithms/string-compression/) |
+| 80 | [string-encode-and-decode](Data%20Structures%20%26%20Algorithms/string-encode-and-decode/) |
+| 81 | [subarray-product-less-than-k](Data%20Structures%20%26%20Algorithms/subarray-product-less-than-k/) |
+| 82 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
+| 83 | [subarray-sums-divisible-by-k](Data%20Structures%20%26%20Algorithms/subarray-sums-divisible-by-k/) |
+| 84 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 85 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
+| 86 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
+| 87 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 88 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 89 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 90 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 91 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
