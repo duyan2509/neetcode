@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 106 problems across 1 topic(s)._
+_Total: 107 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (106)
+### Data Structures & Algorithms (107)
 
 | # | Problem |
 |---|---|
@@ -176,14 +176,15 @@ _Total: 106 problems across 1 topic(s)._
 | 96 | [subarray-product-less-than-k](Data%20Structures%20%26%20Algorithms/subarray-product-less-than-k/) |
 | 97 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
 | 98 | [subarray-sums-divisible-by-k](Data%20Structures%20%26%20Algorithms/subarray-sums-divisible-by-k/) |
-| 99 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 100 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
-| 101 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
-| 102 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 103 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 104 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 105 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 106 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 99 | [subtree-of-a-binary-tree](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
+| 100 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 101 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
+| 102 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
+| 103 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 104 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 105 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 106 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 107 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
