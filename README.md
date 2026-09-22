@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 112 problems across 1 topic(s)._
+_Total: 113 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (112)
+### Data Structures & Algorithms (113)
 
 | # | Problem |
 |---|---|
@@ -187,9 +187,10 @@ _Total: 112 problems across 1 topic(s)._
 | 107 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
 | 108 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
 | 109 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 110 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 111 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 112 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 110 | [valid-binary-search-tree](Data%20Structures%20%26%20Algorithms/valid-binary-search-tree/) |
+| 111 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 112 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 113 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
