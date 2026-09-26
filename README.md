@@ -72,9 +72,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Problem Index
 
 <!-- PROBLEMS_INDEX:START -->
-_Total: 116 problems across 1 topic(s)._
+_Total: 117 problems across 1 topic(s)._
 
-### Data Structures & Algorithms (116)
+### Data Structures & Algorithms (117)
 
 | # | Problem |
 |---|---|
@@ -185,15 +185,16 @@ _Total: 116 problems across 1 topic(s)._
 | 105 | [subarray-sum-equals-k](Data%20Structures%20%26%20Algorithms/subarray-sum-equals-k/) |
 | 106 | [subarray-sums-divisible-by-k](Data%20Structures%20%26%20Algorithms/subarray-sums-divisible-by-k/) |
 | 107 | [subtree-of-a-binary-tree](Data%20Structures%20%26%20Algorithms/subtree-of-a-binary-tree/) |
-| 108 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
-| 109 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
-| 110 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
-| 111 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
-| 112 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
-| 113 | [valid-binary-search-tree](Data%20Structures%20%26%20Algorithms/valid-binary-search-tree/) |
-| 114 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
-| 115 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
-| 116 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
+| 108 | [sum-root-to-leaf-numbers](Data%20Structures%20%26%20Algorithms/sum-root-to-leaf-numbers/) |
+| 109 | [three-integer-sum](Data%20Structures%20%26%20Algorithms/three-integer-sum/) |
+| 110 | [time-based-key-value-store](Data%20Structures%20%26%20Algorithms/time-based-key-value-store/) |
+| 111 | [top-k-elements-in-list](Data%20Structures%20%26%20Algorithms/top-k-elements-in-list/) |
+| 112 | [two-integer-sum](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 113 | [two-integer-sum-ii](Data%20Structures%20%26%20Algorithms/two-integer-sum-ii/) |
+| 114 | [valid-binary-search-tree](Data%20Structures%20%26%20Algorithms/valid-binary-search-tree/) |
+| 115 | [valid-palindrome-ii](Data%20Structures%20%26%20Algorithms/valid-palindrome-ii/) |
+| 116 | [valid-sudoku](Data%20Structures%20%26%20Algorithms/valid-sudoku/) |
+| 117 | [validate-parentheses](Data%20Structures%20%26%20Algorithms/validate-parentheses/) |
 <!-- PROBLEMS_INDEX:END -->
 
 ---
